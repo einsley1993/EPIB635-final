@@ -1,5 +1,5 @@
 ---
-title: 'dalGen: borrow both arms'
+title: 'dalGenE: borrow both arms'
 author: "Yi Li"
 date: "08/12/2022"
 output:

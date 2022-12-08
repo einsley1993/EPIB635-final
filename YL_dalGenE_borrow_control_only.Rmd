@@ -1,5 +1,5 @@
 ---
-title: "dalGen: borrow control arm only"
+title: "dalGenE: borrow control arm only"
 author: "Yi Li"
 date: "27/11/2022"
 output:
