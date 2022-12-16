@@ -14,9 +14,9 @@
 ###### Overview ######
 
 # Summary
-# Anticipate: 	117 events in treatment, 147 events in control, at final analysis (n = 2000)
-# Reasoning:	117 = (180/3071)*2000, where 180 were number of events and total number of patients, respectively, in treatment group at final analysis
-#		147 = (226/3076)*2000, where 226 were number of events and total number of patients, respectively, in control group at final analysis
+# Anticipate: 	88 events in treatment, 110 events in control, at final analysis (n = 1500)
+# Reasoning:	88 = (180/3071)*1500, where 180 were number of events and total number of patients, respectively, in treatment group at final analysis
+#		110 = (226/3076)*1500, where 226 were number of events and total number of patients, respectively, in control group at final analysis
 
 
 
