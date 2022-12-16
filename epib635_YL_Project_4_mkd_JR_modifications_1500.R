@@ -400,7 +400,7 @@ for(i in 1:length(te_change)){
 
 
 ## 4.d) Plotting (JR)
-pdf(file = "~/courses/epib635/graphs/epib635_YL_dalGen_mkd_JR_scatterplot_permutations_single_arm_1500.pdf");
+pdf(file = "~/courses/epib635/graphs/epib635_YL_Project_4_mkd_JR_scatterplot_permutations_single_arm_1500.pdf");
 
 # Figure 1
 plot <- ggplot(w_FPR, aes(x = w, y = FPR)) + 
@@ -720,7 +720,7 @@ for(i in 1:length(te_change_new)){
 
 
 ## 6.d) Plotting (JR)
-pdf(file = "~/courses/epib635/graphs/epib635_YL_dalGen_mkd_JR_scatterplot_permutations_both_arms_1500.pdf");
+pdf(file = "~/courses/epib635/graphs/epib635_YL_Project_4_mkd_JR_scatterplot_permutations_both_arms_1500.pdf");
 
 # Figure 4
 plot <- ggplot(w_FPR_new, aes(x = w, y = FPR)) + 
@@ -818,7 +818,7 @@ end.time <- stop.time-start.time
 # Time difference of 2.735275 hours
 
 # 7) Save image
-savey <- c("~/courses/epib635/rdata_images/epib635_YL_dalGen_mkd_JR_modifications_1500.RData");
+savey <- c("~/courses/epib635/rdata_images/epib635_YL_Project_4_mkd_JR_modifications_1500.RData");
 load(savey);
 
 save.image(savey);
